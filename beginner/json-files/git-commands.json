@@ -333,5 +333,9 @@
   {
     "title": "git rev-list --count master",
     "description": "count the number of commits on a branch"
+  },
+  {
+    "title": "git clone",
+    "description": "The git clone is used to make a clone or copy of the repo in a new directory,or at another location. The original repository can be located on the local filesystem or on remote."
   }
 ]
